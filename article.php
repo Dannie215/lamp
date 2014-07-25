@@ -25,7 +25,7 @@ if ($connection) {
     echo 
          "<h1>" . "<a href='article.php?id=" . $article['id'] . "'>" .  $article['title'] . "</a>" . "</h1>" . "<br>" .
          "<h1> "  . $article['author']  . "</h1>" .
-         " "  . $article['body']  . "<br>";
+         " <p>"  . $article['body']  . " <p>" . "<br>";
   }
 }
 

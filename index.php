@@ -20,7 +20,27 @@ if ($connection) {
        print '<!DOCTYPE html>
           <html>
           <head>
-          <title>Daniel LAMP</title>
+          <title>Dan LAMP</title>
+          
+                    <style type="text/css">
+                        body {
+                                background-color: #F9f9f9;
+                            }
+
+                            h1 {
+                                color: #4566EC;
+                                font-family: "bebas";
+                                font-size: 30px;
+
+                            }
+
+                            p {
+                                font-family: "Times New Roman";
+                                font-size: 20px;
+                                color: #999999;
+                            }
+                    </style>
+
           </head> ';
 
 
