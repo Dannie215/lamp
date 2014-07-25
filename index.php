@@ -20,7 +20,7 @@ if ($connection) {
        print '<!DOCTYPE html>
           <html>
           <head>
-          <title>Dannies First LAMP</title>
+          <title>Daniel LAMP</title>
           </head> ';
 
 
